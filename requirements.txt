@@ -4,3 +4,6 @@ torch            # (Or tensorflow) for your deep learning model
 numpy            # For data processing
 torchvision      # (Optional) If you are doing computer vision
 pandas           # (Optional) For data manipulation
+flask
+transformers
+
