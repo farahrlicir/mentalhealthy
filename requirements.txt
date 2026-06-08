@@ -1,0 +1,8 @@
+flask            # The web framework for your custom UI
+gunicorn         # MUST have this for production on Render
+torch            # (Or tensorflow) for your deep learning model
+numpy            # For data processing
+pandas           # (Optional) For data manipulation
+flask
+transformers
+flask-cors
